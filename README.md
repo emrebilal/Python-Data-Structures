@@ -1,2 +1,2 @@
 # python-data-structures
-Python Data Structures
+Includes notes on python data structures.
