@@ -1,0 +1,4 @@
+Machine learning is a branch of artificial intelligence focused on building applications that learn from data and improve their accuracy over time without being programmed to do so. 
+In data science, an algorithm is a sequence of statistical processing steps. 
+In machine learning, algorithms are trained to find patterns and features in massive amounts of data in order to make decisions and predictions based on new data. 
+The better the algorithm, the more accurate the decisions and predictions will become as it processes more data.
